@@ -1,0 +1,20 @@
+.contaner{
+    max-width: 1440px;
+    width: 100%;
+    width: 100vw;
+    height: 100vh;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+.butt{
+    width: 200px;
+    height: 60px;
+    background-color: orange;
+    color: white;
+
+}
